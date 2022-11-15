@@ -10,7 +10,7 @@ A rest API made with PHP to play game with words using resource from URI. If you
 ![response-example-not-found]
 
 ## Routes
-Root path for all routes must have `index.php`. To, if you are using `localhost` and use `git clone` into root folder from `localhost`, so `root path` will be
+Root path for all routes must have `index.php`. So, if you are using `localhost` and use `git clone` into root folder from `localhost`, so `root path` will be
 ```
 → http://localhost/aping/index.php
 ```
